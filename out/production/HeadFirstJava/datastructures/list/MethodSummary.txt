@@ -1,0 +1,4 @@
+add(E e);
+Add(int index, E element)
+//insert the specified elemenet in the index
+AddA
